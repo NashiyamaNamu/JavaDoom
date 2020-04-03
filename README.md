@@ -2,7 +2,7 @@
   
 how to run java doom  
  $ javac Main.java  
- $ java  
+ $ java Main  
    
 how to run map editor  
  $ javac MapEditor.java  
